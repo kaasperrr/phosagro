@@ -1,0 +1,15 @@
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\bin\Debug\Phosagro.Credit.LoanCalculator.exe.config
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\bin\Debug\Phosagro.Credit.LoanCalculator.exe
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\bin\Debug\Phosagro.Credit.LoanCalculator.pdb
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.csproj.AssemblyReference.cache
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\App.g.cs
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator_MarkupCompile.cache
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator_MarkupCompile.lref
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\MainWindow.baml
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.g.resources
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.Properties.Resources.resources
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.csproj.GenerateResource.cache
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.exe
+C:\Users\sbond\OneDrive\Рабочий стол\phosagro_credit\Phosagro.Credit.LoanCalculator\Phosagro.Credit.LoanCalculator\obj\Debug\Phosagro.Credit.LoanCalculator.pdb

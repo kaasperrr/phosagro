@@ -1,0 +1,27 @@
+﻿<Window x:Class="Phosagro.Credit.LoanCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Phosagro.Credit.LoanCalculator"
+        mc:Ignorable="d"
+        Title="CreditCalculator" Height="450" Width="800">
+    <Grid Background="#FFF1DDC4">
+        <Label Content="КРЕДИТНЫЙ КАЛЬКУЛЯТОР" Height="39" Margin="298,32,262,0" VerticalAlignment="Top" Width="239" FontSize="20" FontFamily="Bahnschrift Condensed" RenderTransformOrigin="0.335,0.373"/>
+        <Label Content="Сумма кредита:" HorizontalAlignment="Left" Height="27" Margin="32,81,0,0" VerticalAlignment="Top" Width="124" Background="#FFF1DDC4"/>
+        <Label Content="Срок кредита(в месяцах):" HorizontalAlignment="Left" Height="26" Margin="32,126,0,0" VerticalAlignment="Top" Width="160" Background="#FFF1DDC4"/>
+        <Label Content="Годовая ставка:" HorizontalAlignment="Left" Height="25" Margin="32,170,0,0" VerticalAlignment="Top" Width="160" Background="#FFF1DDC4"/>
+        <Label Content="Вид платежа:" HorizontalAlignment="Left" Height="25" Margin="32,263,0,0" VerticalAlignment="Top" Width="141" Background="#FFF1DDC4"/>
+        <TextBox x:Name="tbSum" HorizontalAlignment="Left" Height="27" Margin="209,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
+        <TextBox x:Name="tbMonth" HorizontalAlignment="Left" Height="27" Margin="209,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
+        <TextBox x:Name="tbRate" HorizontalAlignment="Left" Height="27" Margin="209,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
+        <ListBox x:Name="list" HorizontalAlignment="Left" Height="25" Margin="209,271,0,0" VerticalAlignment="Top" Width="191" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionMode="Multiple"/>
+        <Button Content="Рассчитать кредит" HorizontalAlignment="Center" Height="35" Margin="0,355,0,0" VerticalAlignment="Top" Width="128" Click="btn" Background="#FFFCF3F3"/>
+        <TextBox x:Name="tbResult" HorizontalAlignment="Left" Height="28" Margin="491,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" IsReadOnly="True"/>
+        <TextBox x:Name="tbResult2" HorizontalAlignment="Left" Height="27" Margin="491,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" IsReadOnly="True"/>
+        <Label Content="Первоначальный взнос:" HorizontalAlignment="Left" Height="27" Margin="32,217,0,0" VerticalAlignment="Top" Width="141"/>
+        <TextBox x:Name="tbDown" HorizontalAlignment="Left" Height="27" Margin="209,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
+        <Label x:Name="___Без_имени_" Content="Сумма всех платежей:" HorizontalAlignment="Left" Height="32" Margin="491,72,0,0" VerticalAlignment="Top" Width="175" RenderTransformOrigin="1.208,0.543"/>
+        <Label Content="Сумма процентов:" HorizontalAlignment="Left" Height="30" Margin="491,152,0,0" VerticalAlignment="Top" Width="175"/>
+    </Grid>
+</Window>
